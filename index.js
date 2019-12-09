@@ -1,3 +1,4 @@
 module.exports = {
-    sleep: require('./sleep')
+    sleep: require('./sleep'),
+    tjd : require('./tjd'),
 }

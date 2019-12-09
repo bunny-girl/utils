@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/bunny-girl/utils/issues"
   },
-  "homepage": "https://github.com/bunny-girl/utils#readme"
+  "homepage": "https://github.com/bunny-girl/utils#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3"
+  }
 }
